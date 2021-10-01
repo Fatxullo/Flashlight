@@ -1,0 +1,15 @@
+body {
+    background: url(./hero-bg.jpg);
+    background-size: cover;
+    overflow: hidden;
+    height: 100vh;
+    cursor: none;
+    margin: 0;
+    padding: 0;
+  }
+  .spotlight {
+     position: absolute;
+     height: 100%;
+     width: 100%;
+     background-image: radial-gradient( circle, transparent 160px, rgba(0, 0, 0, 0.85) 200px);
+  }
